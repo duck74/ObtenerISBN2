@@ -24,6 +24,7 @@ class ViewController: UIViewController {
     
     @IBAction func clearResultado(sender: AnyObject) {
         verResultado.text = "Resultado"
+        verISBN.text = "ISBN"
     }
     
     
